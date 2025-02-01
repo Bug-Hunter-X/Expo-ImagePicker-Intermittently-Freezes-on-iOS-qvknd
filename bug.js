@@ -1,0 +1,1 @@
+While using the Expo ImagePicker library, I encountered an issue where the image selection process would unexpectedly halt or freeze. This occurred inconsistently, making it challenging to identify the root cause. The issue was particularly noticeable on iOS devices and within specific scenarios, adding to the complexity of debugging.
